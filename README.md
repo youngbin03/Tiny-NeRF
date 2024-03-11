@@ -9,3 +9,7 @@ NeRF 3D Modeling
 
 # Experiment report 바로가기(클릭)
 [![NeRF Hyperparameter Optimization 리포트](https://github.com/youngbin03/Tiny-NeRF/assets/87307678/56b0bb5d-a38b-452e-a45c-e21822e10f83)](https://wandb.ai/sfeef/fire-extinguisher/reports/NeRF-Hyperparameter-Optimization--Vmlldzo3MTA5NjU5)
+
+<a href="https://wandb.ai/sfeef/fire-extinguisher/reports/NeRF-Hyperparameter-Optimization--Vmlldzo3MTA5NjU5">
+  <img src="https://github.com/youngbin03/Tiny-NeRF/assets/87307678/56b0bb5d-a38b-452e-a45c-e21822e10f83" width="50%" alt="NeRF Hyperparameter Optimization 리포트">
+</a>
