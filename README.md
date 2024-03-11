@@ -1,2 +1,2 @@
-# Tiny-Nerf
+# Tiny-NeRF
 NeRF 3D Modeling
