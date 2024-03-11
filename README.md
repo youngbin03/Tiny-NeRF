@@ -3,18 +3,8 @@ NeRF 3D Modeling
 
 # Fire extinguisher 3D
 
-<table>
-<thead align="center">
-  <tr>
-    <th>실제 모델영상 <a href="https://github.com/youngbin03/Tiny-NeRF/assets/87307678/8948836d-6a08-4f57-a3f8-a8e6d2bd532d">결과물 정성평가</a> </th>
-    <th>NeRF 3D 표현</th>
-  </tr>
-</thead>
-<tbody align="center">
-  <tr>
-    <td><img width="350" src="https://github.com/ProtossDragoon/PlankHyundong/blob/main/docs/images/figure_final.jpg"></td></th>
+| 실제 영상 | 3D 모델링 |
+|:---------:|:---------:|
+| ![실제 영상](https://github.com/youngbin03/Tiny-NeRF/assets/87307678/ba63e405-bca1-41ff-8b84-a7d0d98e9277) | ![3D 모델링](https://github.com/youngbin03/Tiny-NeRF/assets/87307678/f6bfcfae-ec58-49d5-b4d8-17fce4ba57c1) |
 
-    <td><img src="https://github.com/ProtossDragoon/PlankHyundong/blob/main/docs/images/hyundong360_removebg.gif"></td>
-  </tr>
-</tbody>
-</table>
+
