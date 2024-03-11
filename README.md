@@ -9,3 +9,5 @@ NeRF 3D Modeling
 
 # Experiment report
 [NeRF Hyperparameter Optimization 리포트 보기](https://wandb.ai/sfeef/fire-extinguisher/reports/NeRF-Hyperparameter-Optimization--Vmlldzo3MTA5NjU5)
+
+<iframe src="https://wandb.ai/sfeef/fire-extinguisher/reports/NeRF-Hyperparameter-Optimization--Vmlldzo3MTA5NjU5" style="border:none;height:1024px;width:100%">
