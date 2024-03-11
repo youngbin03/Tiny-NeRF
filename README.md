@@ -4,7 +4,7 @@ NeRF 3D Modeling
 # Fire extinguisher 3D
 
 ## 실제 영상
-<img src="https://github.com/youngbin03/Tiny-NeRF/assets/87307678/70dd6cb2-12c9-4ae8-9604-5e1de7be6b8a" height="300">
+<img src="https://github.com/youngbin03/Tiny-NeRF/assets/87307678/3a983cf7-4d7c-48bf-b43d-f4ef6027d92d" height="300">
 
 ## NeRF 3D 표현
 
