@@ -18,5 +18,5 @@ https://github.com/youngbin03/Tiny-NeRF/assets/87307678/8cf82cb3-4a85-43cd-a647-
 
 | 최종 결과물 (실제 피규어), [결과물 정성평가](https://github.com/youngbin03/Tiny-NeRF/assets/87307678/8cf82cb3-4a85-43cd-a647-28f40dbbd2d4) | NeRF 3D 표현 |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:------------:|
-| <img width="350" src="https://github.com/ProtossDragoon/PlankHyundong/blob/main/docs/images/figure_final.jpg">                  | <img src="https://github.com/ProtossDragoon/PlankHyundong/blob/main/docs/images/hyundong360_removebg.gif"> |
+| <img width="350" src="https://github.com/ProtossDragoon/PlankHyundong/blob/main/docs/images/figure_final.jpg">                  | <img src="https://github.com/youngbin03/Tiny-NeRF/assets/87307678/8cf82cb3-4a85-43cd-a647-28f40dbbd2d4"> |
 
