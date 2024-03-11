@@ -8,4 +8,5 @@ NeRF 3D Modeling
 
 ## NeRF 3D 표현
 <img src="https://github.com/youngbin03/Tiny-NeRF/assets/87307678/fd881f27-992c-4e10-becf-e4d22c0c5bd1">
+<img src="https://github.com/youngbin03/Tiny-NeRF/assets/87307678/fd881f27-992c-4e10-becf-e4d22c0c5bd1">
 ![output](https://github.com/youngbin03/Tiny-NeRF/assets/87307678/fd881f27-992c-4e10-becf-e4d22c0c5bd1)
