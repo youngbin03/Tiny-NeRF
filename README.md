@@ -1,5 +1,5 @@
 # Tiny-NeRF
-ITBT Creative Lab Fire Extinguisher NeRF 3D Modeling
+ITBT Creative Lab Fire Extinguisher NeRF 3D Mo deling
 
 # Fire extinguisher 3D
 
