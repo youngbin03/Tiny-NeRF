@@ -1,7 +1,7 @@
 # Tiny-NeRF
 ITBT Creative Lab Fire Extinguisher NeRF 3D Mo deling
 
-# Fire extinguisher 3D
+# Fire extinguisher 3 D
 
 | 실제 촬영 영상 | NeRF 3D 표현 |
 |------------|-------------|
